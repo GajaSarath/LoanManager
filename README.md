@@ -47,7 +47,7 @@ Licensed under the **Eclipse Public License 2.0 (EPL-2.0)**.
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/2200032645/LoanManager.git
+git clone https://github.com/GajaSarath/LoanManager.git
 cd LoanManager
 ```
 
